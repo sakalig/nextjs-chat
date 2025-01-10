@@ -70,4 +70,4 @@ This library is created by [Vercel](https://vercel.com) and [Next.js](https://ne
 - Shu Ding ([@shuding\_](https://twitter.com/shuding_)) - [Vercel](https://vercel.com)
 - shadcn ([@shadcn](https://twitter.com/shadcn)) - [Vercel](https://vercel.com)
 ### Active contributor
-- Gabriel Sakali ([@sakalig])
+- Gabriel Sakali ([@sakalig](https://github.com/sakalig))
